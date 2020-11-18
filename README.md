@@ -12,4 +12,4 @@ Enjoy
 
 Or
 
-Live deploy link: 
+Live deploy link: https://sleepy-bhabha-f81273.netlify.app/
