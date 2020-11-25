@@ -10,6 +10,6 @@ Follow the steps to run this Login Form
 
 Enjoy
 
-Or
+OR
 
 Live deploy link: https://sleepy-bhabha-f81273.netlify.app/
